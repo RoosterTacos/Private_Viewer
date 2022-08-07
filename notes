@@ -1,0 +1,11 @@
+Purpose
+Encrypt all files in given directory path as well as all files in subfolders.
+
+
+Usage
+
+Call program with 2 arguments. First is mode which indicates whether to encrypt or decrypt specified 
+directory by 'enc' or 'dec'.  Second argument is the full path in possix format.
+
+ie.               *           * 
+      node pv.js enc '/Users/Matt/Documents'
