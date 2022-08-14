@@ -9,3 +9,7 @@ directory by 'enc' or 'dec'.  Second argument is the full path in possix format.
 
 ie.               *           * 
       node pv.js enc '/Users/Matt/Documents'
+
+
+TO DO :
+Fix bug when file has no extension
